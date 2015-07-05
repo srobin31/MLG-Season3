@@ -1,0 +1,106 @@
+html {
+    body {
+        background-color: #ededed;
+        width: 100%;
+        margin: 80px 0 0 0;
+        padding: 0 25px 10px 25px;
+        h1 {
+            font-family: 'Passion One', cursive;
+            text-align: center;
+            font-size: 84px;
+            margin-bottom: 0;
+        }
+        h2 {
+            font-family: 'Squada One', cursive;
+        }
+        td,
+        p {
+            text-align: center;
+        }
+        .navbar {
+            position: fixed;
+            padding-right: 25px;
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            img {
+                height: 70px;
+                float: left;
+            }
+            .navbar-right li a {
+                padding: 25px 25px 25px 25px;
+            }
+        }
+        .navbar-title {
+            padding: 15px 15px 15px 15px;
+            color: #ffffff;
+            text-align: center;
+        }
+        .col-xs-4 {
+            min-width: 330px;
+            position: relative;
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .rosters {
+            padding-left: 25px;
+            table {
+                width: 100%;
+                max-width: 300px;
+                font-family: Tahoma;
+                h2 {
+                    font-family: inherit;
+                    text-align: center;
+                }
+                td {
+                    padding: 5px;
+                }
+                img {
+                    float: right;
+                    max-height: 100px;
+                    max-width: 150px;
+                    min-width: 60px;
+                    padding: 0 5px 5px 10px;
+                }
+                p {
+                    margin-bottom: 0;
+                }
+            }
+        }
+        .denial {
+            border: 3px solid orange;
+        }
+        .elevate,
+        .rise {
+            border: 3px solid red;
+        }
+        .envy,
+        .tk {
+            border: 3px solid navy;
+        }
+        .epsilon {
+            border: 3px solid #5b7199;
+        }
+        .faze {
+            border: 3px solid #cf0000;
+        }
+        .isolation {
+            border: 3px solid #703b9d;
+        }
+        .optic {
+            border: 3px solid limegreen;
+        }
+        .orbit {
+            border: 3px solid #1e8baa;
+        }
+        .tcm {
+            border: 3px solid #1c7ccf;
+        }
+        .standings {
+            padding-left: 25px;
+        }
+    }
+}

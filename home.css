@@ -1,0 +1,103 @@
+/* line 2, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+html body {
+  background-color: #ededed;
+  width: 100%;
+  margin: 80px 0 0 0;
+  padding: 0 25px 10px 25px; }
+  /* line 7, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body h1 {
+    font-family: 'Passion One', cursive;
+    text-align: center;
+    font-size: 84px;
+    margin-bottom: 0; }
+  /* line 13, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body h2 {
+    font-family: 'Squada One', cursive; }
+  /* line 17, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body td, html body p {
+    text-align: center; }
+  /* line 20, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .navbar {
+    position: fixed;
+    padding-right: 25px; }
+    /* line 23, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+    html body .navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden; }
+    /* line 29, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+    html body .navbar img {
+      height: 70px;
+      float: left; }
+    /* line 33, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+    html body .navbar .navbar-right li a {
+      padding: 25px 25px 25px 25px; }
+  /* line 37, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .navbar-title {
+    padding: 15px 15px 15px 15px;
+    color: #ffffff;
+    text-align: center; }
+  /* line 42, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .col-xs-4 {
+    min-width: 330px;
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 15px; }
+  /* line 48, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .rosters {
+    padding-left: 25px; }
+    /* line 50, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+    html body .rosters table {
+      width: 100%;
+      max-width: 300px;
+      font-family: Tahoma; }
+      /* line 54, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+      html body .rosters table h2 {
+        font-family: inherit;
+        text-align: center; }
+      /* line 58, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+      html body .rosters table td {
+        padding: 5px; }
+      /* line 61, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+      html body .rosters table img {
+        float: right;
+        max-height: 100px;
+        max-width: 150px;
+        min-width: 60px;
+        padding: 0 5px 5px 10px; }
+      /* line 68, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+      html body .rosters table p {
+        margin-bottom: 0; }
+  /* line 73, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .denial {
+    border: 3px solid orange; }
+  /* line 77, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .elevate, html body .rise {
+    border: 3px solid red; }
+  /* line 81, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .envy, html body .tk {
+    border: 3px solid navy; }
+  /* line 84, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .epsilon {
+    border: 3px solid #5b7199; }
+  /* line 87, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .faze {
+    border: 3px solid #cf0000; }
+  /* line 90, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .isolation {
+    border: 3px solid #703b9d; }
+  /* line 93, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .optic {
+    border: 3px solid limegreen; }
+  /* line 96, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .orbit {
+    border: 3px solid #1e8baa; }
+  /* line 99, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .tcm {
+    border: 3px solid #1c7ccf; }
+  /* line 102, /Users/shawnrobin/Desktop/MLG Season 3/home.scss */
+  html body .standings {
+    padding-left: 25px; }
+
+/*# sourceMappingURL=home.css.map */
